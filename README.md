@@ -70,4 +70,4 @@ A lightweight real-time random chat app that matches strangers instantly and let
 
 ## Author
 
-Built by [senuka hansira](https://github.com/senukahansira) , [pabodha dasanayike](https://github.com/Paboda113)
+Built by [senuka hansira](https://github.com/senukahansira) , [paboda dasanayaka](https://github.com/Paboda113)
