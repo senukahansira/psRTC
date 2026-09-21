@@ -9,7 +9,7 @@
 
 A lightweight real-time random chat app that matches strangers instantly and lets them connect in either text chat or live video chat.
 
-## ✨ What's it does.
+## ✨ What's it does
 
 - Randomly pairs users in real time
 - Supports both video and chat-only modes
